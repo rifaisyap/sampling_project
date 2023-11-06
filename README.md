@@ -46,7 +46,7 @@ The data collection method for per capita expenditure in DKI Jakarta in 2020 inv
 
 
 ## Analysis and Conclusion
-The sampling design highlights the importance of prior knowledge in informed parameter assumptions and employs a multistage approach, including gender-based stratification and cluster sampling at the subdistrict level. The calculations suggest that 1,060 samples are needed, with a reasonable total cost of Rp. 104,250,000 for survey needs. A flexible data collection method, combining phone and online messenger channels, enhances resource allocation and surveyor flexibility while ensuring effective data collection.
+The sampling design highlights the importance of prior knowledge in informed parameter assumptions and employs a multistage approach, including gender-based stratification and cluster sampling at the subdistrict level. The calculations suggest that 1,060 samples are needed, with a reasonable total cost of Rp. 104,250,000 for survey needs. This cost is relatively reasonable for the respective stakeholders who needs the survey.
 
 The advantages of this sampling design include increased efficiency, broader geographic coverage, diversity in the sample, and more effective resource allocation. It is particularly useful for large and widely dispersed populations like DKI Jakarta. However, it comes with disadvantages such as increased complexity in design and execution, the potential for bias at each stage, and higher costs compared to simpler sampling methods. These trade-offs should be carefully considered when choosing a sampling approach.
 
